@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local machine and environment files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Molecular dynamics trajectories and bulky intermediate files
+*.xtc
+*.trr
+*.tng
+*.edr
+*.cpt
+*.gro
+*.tpr
+*.dcd
+*.nc
+*.netcdf
+
+# Simulation and docking logs / temporary outputs
+# Keep curated, documented summary files under data/
+md.log
+*.tmp
+*.temp
+core
+core.*
+
+# Local absolute-path and editor artifacts
+*.bak

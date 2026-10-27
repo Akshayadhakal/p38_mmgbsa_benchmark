@@ -1,0 +1,348 @@
+== ~/benchmark_project/md/lig_p38a_2aa/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.12 max 1.31 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.210 max 0.314 last 0.271 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.200 max 0.336 last 0.249 (1001 frames)
+min distance  (nm): first 0.209 mean 0.186 max 0.233 last 0.174 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2aa/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.09 max 1.47 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.184 max 0.280 last 0.180 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.188 max 0.345 last 0.169 (1001 frames)
+min distance  (nm): first 0.189 mean 0.187 max 0.241 last 0.171 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2bb/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.94 A
+no-PBC COM distance (nm): min 1.18 max 1.52 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.184 max 0.283 last 0.243 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.187 max 0.344 last 0.191 (1001 frames)
+min distance  (nm): first 0.219 mean 0.189 max 0.233 last 0.191 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2bb/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.18 max 1.62 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.248 max 0.374 last 0.363 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.319 max 0.553 last 0.512 (1001 frames)
+min distance  (nm): first 0.204 mean 0.201 max 0.241 last 0.215 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2e/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.94 A
+no-PBC COM distance (nm): min 1.11 max 1.46 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.219 max 0.322 last 0.252 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.200 max 0.349 last 0.219 (1001 frames)
+min distance  (nm): first 0.204 mean 0.197 max 0.245 last 0.212 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2e/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.94 A
+no-PBC COM distance (nm): min 1.10 max 1.48 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.233 max 0.367 last 0.215 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.212 max 0.446 last 0.153 (1001 frames)
+min distance  (nm): first 0.191 mean 0.196 max 0.235 last 0.204 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2ee/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.14 max 1.51 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.182 max 0.278 last 0.172 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.187 max 0.309 last 0.206 (1001 frames)
+min distance  (nm): first 0.208 mean 0.194 max 0.239 last 0.215 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2ee/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.90 A
+no-PBC COM distance (nm): min 1.27 max 1.60 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.242 max 0.359 last 0.297 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.281 max 0.433 last 0.295 (1001 frames)
+min distance  (nm): first 0.187 mean 0.212 max 0.251 last 0.178 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2f/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.19 max 1.50 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.236 max 0.380 last 0.275 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.237 max 0.363 last 0.254 (1001 frames)
+min distance  (nm): first 0.173 mean 0.195 max 0.244 last 0.199 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2f/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.09 max 1.44 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.165 max 0.259 last 0.176 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.201 max 0.313 last 0.230 (1001 frames)
+min distance  (nm): first 0.220 mean 0.201 max 0.240 last 0.203 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2ff/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.10 max 1.45 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.167 max 0.261 last 0.196 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.173 max 0.353 last 0.194 (1001 frames)
+min distance  (nm): first 0.206 mean 0.194 max 0.237 last 0.172 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2ff/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.94 A
+no-PBC COM distance (nm): min 1.09 max 1.34 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.173 max 0.284 last 0.127 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.161 max 0.279 last 0.194 (1001 frames)
+min distance  (nm): first 0.189 mean 0.193 max 0.239 last 0.203 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2g/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.14 max 1.48 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.230 max 0.368 last 0.226 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.231 max 0.417 last 0.151 (1001 frames)
+min distance  (nm): first 0.201 mean 0.197 max 0.242 last 0.201 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2g/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.13 max 1.29 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.157 max 0.205 last 0.182 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.147 max 0.235 last 0.147 (1001 frames)
+min distance  (nm): first 0.194 mean 0.198 max 0.232 last 0.201 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2gg/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.19 max 1.55 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.226 max 0.346 last 0.264 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.221 max 0.383 last 0.236 (1001 frames)
+min distance  (nm): first 0.209 mean 0.194 max 0.243 last 0.178 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2gg/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.26 max 1.57 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.219 max 0.336 last 0.203 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.252 max 0.387 last 0.222 (1001 frames)
+min distance  (nm): first 0.205 mean 0.193 max 0.233 last 0.212 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2h/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.11 max 1.46 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.191 max 0.254 last 0.152 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.181 max 0.336 last 0.176 (1001 frames)
+min distance  (nm): first 0.216 mean 0.197 max 0.238 last 0.214 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2h/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.94 A
+no-PBC COM distance (nm): min 1.08 max 1.28 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.168 max 0.234 last 0.171 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.167 max 0.248 last 0.183 (1001 frames)
+min distance  (nm): first 0.204 mean 0.195 max 0.234 last 0.214 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2i/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.10 max 1.44 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.177 max 0.275 last 0.198 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.293 max 0.411 last 0.298 (1001 frames)
+min distance  (nm): first 0.196 mean 0.201 max 0.240 last 0.211 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2i/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.05 max 1.46 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.194 max 0.287 last 0.201 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.305 max 0.430 last 0.299 (1001 frames)
+min distance  (nm): first 0.196 mean 0.201 max 0.234 last 0.189 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2j/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 0.97 max 1.37 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.205 max 0.301 last 0.226 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.221 max 0.369 last 0.228 (1001 frames)
+min distance  (nm): first 0.187 mean 0.199 max 0.238 last 0.186 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2j/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.94 A
+no-PBC COM distance (nm): min 1.03 max 1.42 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.175 max 0.307 last 0.142 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.270 max 0.364 last 0.293 (1001 frames)
+min distance  (nm): first 0.193 mean 0.202 max 0.242 last 0.197 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2k/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.10 max 1.27 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.156 max 0.238 last 0.156 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.140 max 0.245 last 0.153 (1001 frames)
+min distance  (nm): first 0.216 mean 0.197 max 0.235 last 0.190 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2k/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.12 max 1.40 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.192 max 0.287 last 0.236 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.182 max 0.323 last 0.167 (1001 frames)
+min distance  (nm): first 0.215 mean 0.196 max 0.237 last 0.188 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2l/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.12 max 1.29 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.169 max 0.245 last 0.157 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.139 max 0.274 last 0.094 (1001 frames)
+min distance  (nm): first 0.214 mean 0.197 max 0.233 last 0.197 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2l/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.09 max 1.31 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.161 max 0.246 last 0.180 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.146 max 0.252 last 0.166 (1001 frames)
+min distance  (nm): first 0.185 mean 0.197 max 0.233 last 0.176 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2m/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.95 A
+no-PBC COM distance (nm): min 1.16 max 1.52 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.250 max 0.357 last 0.289 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.244 max 0.386 last 0.229 (1001 frames)
+min distance  (nm): first 0.219 mean 0.193 max 0.234 last 0.172 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2m/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.96 A
+no-PBC COM distance (nm): min 1.12 max 1.34 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.175 max 0.228 last 0.177 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.180 max 0.258 last 0.181 (1001 frames)
+min distance  (nm): first 0.223 mean 0.205 max 0.237 last 0.219 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2n/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.90 A
+no-PBC COM distance (nm): min 1.12 max 1.51 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.288 max 0.420 last 0.351 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.281 max 0.476 last 0.337 (1001 frames)
+min distance  (nm): first 0.236 mean 0.190 max 0.236 last 0.215 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2n/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.12 max 1.36 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.163 max 0.235 last 0.173 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.188 max 0.278 last 0.150 (1001 frames)
+min distance  (nm): first 0.187 mean 0.196 max 0.232 last 0.167 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2o/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.10 max 1.50 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.248 max 0.343 last 0.264 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.233 max 0.406 last 0.214 (1001 frames)
+min distance  (nm): first 0.179 mean 0.200 max 0.238 last 0.208 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2o/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.10 max 1.44 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.186 max 0.255 last 0.178 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.184 max 0.290 last 0.170 (1001 frames)
+min distance  (nm): first 0.201 mean 0.201 max 0.241 last 0.210 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2p/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.17 max 1.48 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.234 max 0.340 last 0.250 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.283 max 0.418 last 0.357 (1001 frames)
+min distance  (nm): first 0.232 mean 0.196 max 0.239 last 0.193 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2p/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.08 max 1.55 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.197 max 0.358 last 0.215 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.252 max 0.470 last 0.215 (1001 frames)
+min distance  (nm): first 0.218 mean 0.199 max 0.233 last 0.194 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2r/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.09 max 1.46 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.162 max 0.241 last 0.156 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.227 max 0.391 last 0.254 (1001 frames)
+min distance  (nm): first 0.189 mean 0.196 max 0.233 last 0.203 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2r/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.09 max 1.32 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.161 max 0.250 last 0.152 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.211 max 0.278 last 0.195 (1001 frames)
+min distance  (nm): first 0.194 mean 0.195 max 0.232 last 0.192 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2s/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.12 max 1.33 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.179 max 0.265 last 0.191 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.242 max 0.420 last 0.262 (1001 frames)
+min distance  (nm): first 0.191 mean 0.193 max 0.233 last 0.182 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2s/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.94 A
+no-PBC COM distance (nm): min 1.08 max 1.33 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.154 max 0.224 last 0.188 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.179 max 0.265 last 0.154 (1001 frames)
+min distance  (nm): first 0.179 mean 0.194 max 0.244 last 0.207 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2t/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.08 max 1.33 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.183 max 0.257 last 0.206 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.111 max 0.242 last 0.097 (1001 frames)
+min distance  (nm): first 0.216 mean 0.197 max 0.240 last 0.187 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2t/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.10 max 1.44 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.192 max 0.341 last 0.167 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.165 max 0.341 last 0.237 (1001 frames)
+min distance  (nm): first 0.199 mean 0.195 max 0.237 last 0.190 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2v/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.90 A
+no-PBC COM distance (nm): min 1.14 max 1.33 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.185 max 0.277 last 0.231 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.178 max 0.292 last 0.176 (1001 frames)
+min distance  (nm): first 0.190 mean 0.188 max 0.240 last 0.169 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2v/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.11 max 1.28 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.181 max 0.283 last 0.269 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.142 max 0.269 last 0.181 (1001 frames)
+min distance  (nm): first 0.207 mean 0.192 max 0.238 last 0.181 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2x/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.11 max 1.30 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.162 max 0.246 last 0.214 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.193 max 0.304 last 0.113 (1001 frames)
+min distance  (nm): first 0.180 mean 0.194 max 0.234 last 0.185 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2x/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.12 max 1.56 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.271 max 0.396 last 0.295 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.344 max 0.518 last 0.354 (1001 frames)
+min distance  (nm): first 0.191 mean 0.196 max 0.237 last 0.186 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2y/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.11 max 1.30 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.174 max 0.232 last 0.175 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.237 max 0.306 last 0.285 (1001 frames)
+min distance  (nm): first 0.196 mean 0.188 max 0.225 last 0.194 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2y/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.16 max 1.48 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.228 max 0.320 last 0.254 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.251 max 0.379 last 0.237 (1001 frames)
+min distance  (nm): first 0.189 mean 0.190 max 0.230 last 0.210 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2z/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.06 max 1.30 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.175 max 0.260 last 0.185 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.229 max 0.302 last 0.215 (1001 frames)
+min distance  (nm): first 0.209 mean 0.204 max 0.237 last 0.203 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_2z/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.08 max 1.34 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.157 max 0.228 last 0.159 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.228 max 0.341 last 0.268 (1001 frames)
+min distance  (nm): first 0.215 mean 0.205 max 0.243 last 0.208 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3fln/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.08 max 1.30 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.177 max 0.254 last 0.149 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.133 max 0.237 last 0.131 (1001 frames)
+min distance  (nm): first 0.204 mean 0.197 max 0.237 last 0.215 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3fln/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.90 A
+no-PBC COM distance (nm): min 1.11 max 1.31 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.163 max 0.256 last 0.190 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.121 max 0.230 last 0.085 (1001 frames)
+min distance  (nm): first 0.197 mean 0.197 max 0.235 last 0.202 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3flw/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.94 A
+no-PBC COM distance (nm): min 1.12 max 1.32 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.182 max 0.274 last 0.201 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.176 max 0.242 last 0.188 (1001 frames)
+min distance  (nm): first 0.167 mean 0.191 max 0.227 last 0.207 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3flw/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.13 max 1.37 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.160 max 0.264 last 0.161 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.191 max 0.305 last 0.184 (1001 frames)
+min distance  (nm): first 0.189 mean 0.192 max 0.230 last 0.187 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3fly
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.92 A
+no-PBC COM distance (nm): min 1.09 max 1.26 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.192 max 0.280 last 0.175 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.174 max 0.284 last 0.202 (1001 frames)
+min distance  (nm): first 0.201 mean 0.200 max 0.237 last 0.179 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3fly/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.10 max 1.27 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.201 max 0.267 last 0.216 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.162 max 0.247 last 0.169 (1001 frames)
+min distance  (nm): first 0.220 mean 0.200 max 0.239 last 0.194 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3flz/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.95 A
+no-PBC COM distance (nm): min 1.09 max 1.31 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.182 max 0.296 last 0.226 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.164 max 0.266 last 0.154 (1001 frames)
+min distance  (nm): first 0.215 mean 0.196 max 0.229 last 0.202 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3flz/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.91 A
+no-PBC COM distance (nm): min 1.14 max 1.51 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.196 max 0.314 last 0.215 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.239 max 0.446 last 0.167 (1001 frames)
+min distance  (nm): first 0.197 mean 0.193 max 0.231 last 0.174 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3fmh/rep1
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.97 A
+no-PBC COM distance (nm): min 1.12 max 1.40 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.154 max 0.247 last 0.175 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.210 max 0.340 last 0.213 (1001 frames)
+min distance  (nm): first 0.202 mean 0.196 max 0.229 last 0.200 (1001 frames)
+== ~/benchmark_project/md/lig_p38a_3fmh/rep2
+bond scan: frames scanned: 21 | frames with a bond > 2.5 A: 0 | longest bond over all frames: 1.93 A
+no-PBC COM distance (nm): min 1.12 max 1.45 | frames above 3 nm: 0 of 1001
+backbone RMSD (nm): first 0.000 mean 0.177 max 0.292 last 0.160 (1001 frames)
+ligand RMSD   (nm): first 0.000 mean 0.201 max 0.344 last 0.149 (1001 frames)
+min distance  (nm): first 0.177 mean 0.194 max 0.236 last 0.197 (1001 frames)
